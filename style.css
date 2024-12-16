@@ -1,0 +1,45 @@
+body {
+    background-color: rgb(240, 231, 220);
+    padding: 100px;
+}
+
+section {
+    background-color: white;
+    padding: 25px;
+    margin: 10px;
+}
+
+
+.preview-img {
+    width: 95%;
+    height: 20%;
+    padding: 10px;
+    background-color: white;
+}
+
+.second-container {
+    background-color: rgb(252, 191, 201);
+}
+
+.second-container h4 {
+    color: rgb(194, 14, 44);
+}
+
+
+img {
+    /* width: 100px; */
+}
+
+h2 {
+    color: red;
+}
+
+.fourth-container {
+    line-height: 1.4;
+
+}
+
+.fourth-container h2 {
+    color: red;
+
+}
